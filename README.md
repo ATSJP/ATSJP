@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ATSJP/ATSJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +14,12 @@ Here are some ideas to get you started:
 -->
 
 
-[![atsjp's GitHub stats](https://github-readme-stats.vercel.app/api?username=atsjp&show_icons=true&theme=gruvbox )](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=atsjp&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true&theme=gruvbox" alt="atsjp's github stats"/>
+
+I'm Atsjp, thank you very much for visiting my home page.
+
+### About
+
+😄 I've worked, but I'm still learning
