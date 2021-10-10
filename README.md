@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋
+### Hi 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=atsjp&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true&theme=gruvbox" alt="atsjp's github stats"/>
 
