@@ -22,4 +22,4 @@ I'm Atsjp, thank you very much for visiting my home page.
 
 ### About
 
-⚡ I've worked, but I'm still learning
+⚡ Study hard, improve every day
